@@ -1,0 +1,14 @@
+# Debug files or Build results
+HelloJNI/Debug/
+HelloJNI/x64/
+HelloJNI/Release/
+Release/
+x64/
+Debug/
+!Debug/*.dll
+
+# VS cache/options directory
+.vs/
+
+# VS code profiles
+.vscode/
